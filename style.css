@@ -1,0 +1,22 @@
+li {
+  padding: 5px;
+  border: 1px solid #999;
+  margin: 5px;
+  cursor: move;
+  background: red;
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: none;
+}
+
+/* #listA  li {
+ background: red;
+}
+
+#listB li {
+ background: green;
+} */
+
+.ui-multisortable-selected {
+ background: yellow; 
+}
